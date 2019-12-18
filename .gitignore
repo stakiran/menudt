@@ -1,0 +1,5 @@
+dialis/
+*.exe
+*.zip
+build.ahk
+config.ahk

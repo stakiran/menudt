@@ -1,0 +1,4 @@
+﻿class CONFIG{
+  ; Must not be \ but \\
+  static TEXT_EDITOR_PATH := "C:\\Program Files\\Hidemaru\\HIDEMARU.EXE"
+}

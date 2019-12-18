@@ -1,0 +1,5 @@
+﻿infile  = %A_ScriptDir%\menudt.ahk
+outfile = %A_ScriptDir%\menudt.exe
+builder = <Your AHK2EXE.exe Path>
+
+Run "%builder%" /in "%infile%" /out "%outfile%"
